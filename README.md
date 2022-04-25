@@ -16,7 +16,7 @@
 </ul>
 📫 Reach me at <a href="mailto:srknozsoz@gmail.com">srknozsoz@gmail.com</a><br>
 😄 Find me on <a href="https://www.instagram.com/serkanozsozz/">Instagram</a><br><br><br>
-
+ 
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanozsoz&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanozsoz&theme=radical&hide_border=true"/><br><br>
