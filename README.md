@@ -35,5 +35,5 @@
 
 
 ------
-Credit: [Serkan Ozsoz](https://github.com/serkanozsoz)
+Credit: [Serkan-Ozsoz](https://github.com/serkanozsoz)
 Last Edited on: 25/04/2022
