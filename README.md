@@ -5,7 +5,7 @@
 <strong>About Me:</strong><br>
 💻 I’m currently working on some Asp.Net Core/MVC Projects<br>
 📚 I’m graduated from Erciyes University in Turkey<br>
-📈 I experienced in HTML,CSS,JavaScript,C#,SQL and Python.<br>
+📈 I experienced in HTML, CSS, JavaScript, C#, SQL and Python.<br>
 📖 I'm currently learning Asp.Net Core/MVC and Web API.<br>
 🏆 My certifications: 
 <ul>
