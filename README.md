@@ -9,7 +9,7 @@
 📖 I'm currently learning Asp.Net Core/MVC and Web API.<br>
 🏆 My certifications: 
 <ul>
-  <li>Patika.dev: .Net Core</li>
+  <li>Patika.dev: .Net Core Path</li>
   <li>HackerRank: SQL(Advanced)</li>
   <li>HackerRank: Problem Solving</li>
   <li>BTK Akademi: R ile Veri Bilimine Giriş</li>
